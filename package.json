@@ -18,8 +18,5 @@
             "pre-commit": "npm run format",
             "pre-push": "npm run format"
         }
-    },
-    "engines": {
-        "node": "14.x"
-  }
+    }
 }
